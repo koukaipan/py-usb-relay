@@ -1,0 +1,1 @@
+python ./main.py --com-port com8 --id 1 --action off
